@@ -8,8 +8,8 @@ I craft tools that bring technology closer to humans — through automation, AI,
 ## 🧠 About Me
 
 - 🔭 Currently working on projects in **AI**, **infrastructure**, **robotics**, and **automation**.
-- 🧰 Tech stack includes `Go`, `Swift`, `TypeScript`, `Vue`, `React`, `Angular`, `Docker`, `GCP`, `PostgreSQL`, `n8n`, `Terraform`, `Pulumi`
-- 🚀 I've launched over **50 projects**, from **ERPs** and **logistics platforms** to **AI-powered assistants**, **e-commerce tools**, **bots**, and **data visualizations**.
+- 🧰 Tech stack includes `TypeScript`, `Vue`, `React`, `Angular`, `Go`, `Swift`, `Docker`, `GCP`, `PostgreSQL`, `n8n`, `Terraform`, `Pulumi`
+- 🚀 I've launched over **50 projects and 35 systems**, from **FinTech**, **SaaS** and **platforms** to **AI-powered assistants**, **e-commerce tools**, **bots**, and **data visualizations**.
 - 🧭 I believe in merging engineering precision with human-centered design — building things that are not only smart, but meaningful.
 
 ---
@@ -23,7 +23,7 @@ I craft tools that bring technology closer to humans — through automation, AI,
 
 ---
 
-## 🤝 Open to Collaborate On
+## 🤝 Open to Collaborate Onx
 
 - Experimental AI tools  
 - Ethical infrastructure & privacy-first tech  
@@ -33,7 +33,7 @@ I craft tools that bring technology closer to humans — through automation, AI,
 
 ## 📫 Reach Me
 
-- ✉️ [LinkedIn](https://www.linkedin.com/in/%F0%9F%94%AD-aleksandr-lepesii-795194166/)
+- ✉️ [LinkedIn](https://www.linkedin.com/in/aleksandr-lepesii/)
 
 ---
 
