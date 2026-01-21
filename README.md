@@ -8,7 +8,7 @@ I craft tools that bring technology closer to humans — through automation, AI,
 ## 🧠 About Me
 
 - 🔭 Currently working on projects in **AI**, **infrastructure**, **robotics**, and **automation**.
-- 🧰 Tech stack includes `TypeScript`, `Vue`, `Angular`, `React`, `Go`, `Swift`, `Docker`, `GCP`, `PostgreSQL`, `n8n`, `Terraform`, `Pulumi`
+- 🧰 Tech stack includes `TypeScript`, `Vue`, `Angular`, `React`, `Go`, `Swift`, `Docker`, `GCP`.
 - 🚀 I've launched over **50 projects and 35 systems**, from **FinTech**, **SaaS** and **platforms** to **AI-powered assistants**, **e-commerce tools**, **bots**, and **data visualizations**.
 - 🧭 I believe in merging engineering precision with human-centered design — building things that are not only smart, but meaningful.
 
@@ -17,9 +17,7 @@ I craft tools that bring technology closer to humans — through automation, AI,
 ## 🌱 Currently Learning
 
 - 🤖 Machine Learning & LLM pipelines  
-- 🕹️ Embedded systems & robotics  
-- 🌌 Spatial computing & visual reasoning  
-- 📚 C++, physics, and low-level systems
+- 🕹️ Embedded systems & robotics   
 
 ---
 
