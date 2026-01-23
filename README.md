@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Alexander (@leansii)
+# 👋 Hi there, I’m Aleksandr (@leansii)
 
 ✨ Engineer. Explorer. Builder.  
 I craft tools that bring technology closer to humans — through automation, AI, and clean architecture.
@@ -21,7 +21,7 @@ I craft tools that bring technology closer to humans — through automation, AI,
 
 ---
 
-## 🤝 Open to Collaborate Onx
+## 🤝 Open to Collaborate On
 
 - Experimental AI tools  
 - Ethical infrastructure & privacy-first tech  
