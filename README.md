@@ -28,4 +28,4 @@ points.
 
 Mostly Python, TypeScript and Go. Kubernetes and GCP underneath. Bangkok, UTC+7.
 
-[LinkedIn](https://www.linkedin.com/in/aleksandr-lepesii/) · fresh-hawk0h@icloud.com
+[leansii.com](https://leansii.com) · [LinkedIn](https://www.linkedin.com/in/aleksandr-lepesii/) · fresh-hawk0h@icloud.com
