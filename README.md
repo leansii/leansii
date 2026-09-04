@@ -1,40 +1,31 @@
-# 👋 Hi there, I’m Aleksandr (@leansii)
+## Aleksandr Lepesii
 
-✨ Engineer. Explorer. Builder.  
-I craft tools that bring technology closer to humans — through automation, AI, and clean architecture.
+Software engineer, eight years. I build production systems — and for the last two,
+systems built on language models, together with the measurement that says whether
+they work.
 
----
+Most of the work sits in the unglamorous middle: retrieval and guardrails, evaluation
+harnesses, model gateways, instrumentation, CI that catches a regression before a
+customer does. I care more about a number being defensible than about it being good.
 
-## 🧠 About Me
+**Now:** building and running **Vouch** solo, end to end — a live product where a model
+drafts and an evaluation loop decides whether the draft is grounded in its sources.
+Judge accuracy sits at 93–96% against a hand-labelled 342-claim set. I quote that as a
+range because the rare class is 39 examples and a single claim moves the miss rate 2.5
+points.
 
-- 🔭 Currently working on projects in **AI**, **infrastructure**, **robotics**, and **automation**.
-- 🧰 Tech stack includes `TypeScript`, `Vue`, `Angular`, `Go`, `Swift`, `Docker`, `GCP`.
-- 🚀 I've launched over **50 projects and 35 systems**, from **FinTech**, **SaaS** and **platforms** to **AI-powered assistants**, **e-commerce tools**, **bots**, and **data visualizations**.
+### What's here
 
----
+| | |
+|---|---|
+| [**crow**](https://github.com/leansii/crow) | Detects drift between design intent and what was actually implemented — structure, styles, rendering and E2E coverage |
+| [**conductor-claude**](https://github.com/leansii/conductor-claude) | Agent workflow for specifying, planning and implementing features |
+| [**earshot**](https://github.com/leansii/earshot) | Feedback service in Go: an LLM enriches and deduplicates incoming reports, a human approves before anything is filed |
+| [**vitals**](https://github.com/leansii/vitals) | Cloudflare Worker that health-checks several projects on a cron and alerts only on state change |
+| [**ux-knowledge**](https://github.com/leansii/ux-knowledge) | 170 UX/UI patterns as a knowledge base for AI-assisted interface work |
+| [**sotto**](https://github.com/leansii/sotto) | Local-only meeting transcripts from Meet and Zoom captions. No servers, nothing leaves the machine |
+| [**vuegram**](https://github.com/leansii/vuegram) | Vue 3 components for Telegram Mini Apps, themed from Telegram's own variables |
 
-## 🌱 Currently Learning
+Mostly Python, TypeScript and Go. Kubernetes and GCP underneath. Bangkok, UTC+7.
 
-- 🤖 Machine Learning & LLM pipelines  
-- 🕹️ Embedded systems & robotics   
-
----
-
-## 🤝 Open to Collaborate On
-
-- Experimental AI tools  
-- Ethical infrastructure & privacy-first tech  
-- Research-driven projects at the intersection of code, cognition, and creativity
-
----
-
-## 📫 Reach Me
-
-- ✉️ [LinkedIn](https://www.linkedin.com/in/aleksandr-lepesii/)
-
----
-
-<!---
-leansii/leansii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[LinkedIn](https://www.linkedin.com/in/aleksandr-lepesii/) · fresh-hawk0h@icloud.com
