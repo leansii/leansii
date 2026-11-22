@@ -29,3 +29,5 @@ points.
 Mostly Python, TypeScript and Go. Kubernetes and GCP underneath. Bangkok, UTC+7.
 
 [leansii.com](https://leansii.com) · [LinkedIn](https://www.linkedin.com/in/aleksandr-lepesii/) · a.lepesy@icloud.com
+
+<a href="https://tokscale.ai/u/leansii?period=month"><img alt="Tokscale Stats for @leansii" src="https://tokscale.ai/api/embed/leansii/svg?period=month&template=graph&tokens=compact&cost=compact" /></a>
